@@ -1,0 +1,25 @@
+body {
+	background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0,0,50,0.5)),url(boni-header.png);
+    background-size: fixed;
+  background-position: -600px -70px;
+
+
+}
+
+.login-box{
+	height: 10px;
+	max-width: 900px;
+	float: none;
+	margin: 95px auto;
+}
+.login-left{
+	background: #fff;
+	padding: 30px;
+}
+.login-right{
+	background:#fff;
+	padding: 30px;
+}
+.form-control{
+	background-color: transparent !important;
+}
